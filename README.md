@@ -1,1 +1,1 @@
-Repositório Teste em Java - Fare e Operator
+Praticando com Java Puro.
